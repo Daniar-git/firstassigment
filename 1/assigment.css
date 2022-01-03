@@ -1,0 +1,78 @@
+header{
+    background-color: bisque;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    height: 20%;
+}
+hr{
+    margin: 2px;
+}
+#selector{
+    background-color: wheat;
+    width:90%;
+    margin-left:80px ;
+    margin-top: 10px;
+}
+.select{
+    display: inline-block;
+    margin-left: 20px;
+    position: center;
+}
+.Hi{
+    font-family: Georgia, serif;
+    font-size: 20pt;
+    text-align: center;
+}
+main{
+    background-color: sandybrown;
+    width: 100%;
+    height: 60% ;
+}
+.med{
+    width: 440px;
+    height: 300px;
+    display: inline-block;
+    margin-left:80px ;
+}
+.intro{
+    text-align: center;
+    display: inline-block;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+
+footer{
+    background-color: bisque;
+    width: 100%;
+}
+table{
+    border: solid #2e2e2e;
+    border-width: 2px;
+    border-radius: 20%;
+}
+.inline{
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.s{
+    margin-left: 300px;
+}
+.im{
+    width: 40px;
+    height: 40px;
+    margin-top: 0px;
+    position: static;
+}
+.a{
+    margin-left: 300px;
+}
+.b{
+    margin-left:410px;
+}
+.c {
+    margin-left: 360px;
+}
+
